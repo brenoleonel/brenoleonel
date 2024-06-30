@@ -3,7 +3,7 @@
 <p>Sou um entusiasta da programação buscando me tornar um desenvolvedor full stack. Atualmente, estou focado em expandir meu conhecimento em JavaScript, HTML e CSS. Tenho uma forte inclinação para trabalhar no desenvolvimento do lado do servidor (backend), mas estou aberto a explorar todas as áreas da programação.</p>
 
 ## Sobre mim
-- 👨‍💻 Estou cursando um curso de desenvolvimento web, focado em JavaScript, HTML e CSS.
+- 👨‍💻 Estou cursando Desenvolvimento de Software - Full Stack - JavaScript/TypeScript.
 - 🌱 Estou constantemente aprendendo e buscando novos desafios.
 - 💼 Estou procurando oportunidades para colaborar em projetos emocionantes e expandir minha experiência.
 
