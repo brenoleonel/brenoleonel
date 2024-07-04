@@ -1,22 +1,19 @@
-<h1>Olá, sou Breno Leonel! 👋</h1>
 
-<p>Sou um entusiasta da programação buscando me tornar um desenvolvedor full stack. Atualmente, estou focado em expandir meu conhecimento em JavaScript, HTML e CSS. Tenho uma forte inclinação para trabalhar no desenvolvimento do lado do servidor (backend), mas estou aberto a explorar todas as áreas da programação.</p>
+# :sparkles: Olá, sou o Breno 👋 :vulcan_salute:
 
-## Sobre mim
-- 👨‍💻 Estou cursando Desenvolvimento de Software - Full Stack - JavaScript/TypeScript.
-- 🌱 Estou constantemente aprendendo e buscando novos desafios.
-- 💼 Estou procurando oportunidades para colaborar em projetos emocionantes e expandir minha experiência.
 
-## Habilidades
-- **Linguagens:** JavaScript, HTML, CSS
-//- **Frameworks/Libraries:** (Se aplicável, adicione aqui)
-- **Banco de Dados:** MariaDB
-//- **Outras habilidades técnicas:** (Se aplicável, adicione aqui)
+- :computer: Aspirante a Desenvolvedor pela CubosAcademy
+- :open_book: Aluno na Cubos Academy no Curso Desenvolvimento de Software
+- :mortar_board: Técnico em Informática / Hardware - Microlins RP
+- :clapper: Gamer nas horas vagas
+- :video_game: Jogo Lol | Valorant
 
-## Contato
-- LinkedIn: -----
-- Email: brenoaleonels@outlook.com
+### Linguagens
 
----
-⚠️ **Observação:** Este perfil está em construção enquanto continuo meus estudos e desenvolvimento de habilidades.
- 
+![Javascript](https://img.shields.io/badge/Javascript-282C34?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/Typescript-282C34?logo=typescript)
+
+### Bibliotecas e afins
+
+![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js)
+![Next.js](https://img.shields.io/badge/Next.js-282C34?logo=next.js)
