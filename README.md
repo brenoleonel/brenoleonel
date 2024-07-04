@@ -16,4 +16,3 @@
 ### Bibliotecas e afins
 
 ![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js)
-![Next.js](https://img.shields.io/badge/Next.js-282C34?logo=next.js)
