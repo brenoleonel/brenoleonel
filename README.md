@@ -8,6 +8,10 @@
 - :clapper: Gamer nas horas vagas
 - :video_game: Jogo Lol | Valorant
 
+### Redes Sociais
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/breno-leonel-869045329/)
+
 ### Linguagens
 
 ![Javascript](https://img.shields.io/badge/Javascript-282C34?style=flat&logo=javascript)
