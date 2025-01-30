@@ -2,11 +2,9 @@
 # :sparkles: Olá, sou o Breno 👋 :vulcan_salute:
 
 
-- :computer: Aspirante a Desenvolvedor pela CubosAcademy - Modulo 5/6
-- :open_book: Aluno na Cubos Academy no Curso Desenvolvimento de Software
-- :mortar_board: Técnico em Informática / Hardware - Microlins RP
+- :computer: Desenvolvedor de Sistemas Backend, procurando aprimorar meu conhecimento cada vez mais e futamente me tornar Fullstack.
+- :mortar_board: Técnico em Informática / Hardware - Microlins RP / Desenvolvedor de Sistemas pela Cubos Academy
 - :clapper: Gamer nas horas vagas
-- :video_game: Jogo Lol | Valorant
 
 ### Redes Sociais
 
@@ -24,4 +22,6 @@
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
