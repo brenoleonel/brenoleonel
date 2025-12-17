@@ -3,7 +3,7 @@
 
 
 - :computer: Desenvolvedor de Sistemas Backend, procurando aprimorar meu conhecimento cada vez mais e futamente me tornar Fullstack..
-   Atualmente ando estudando mais para melhorar minha logica com JS e TS, e  tambem estou iniciando o aprendizado com Java, por ser uma linguagem que me pode me oferecer mais liberdade nos projetos.
+   Atualmente ando estudando mais para melhorar minha logica com JS e TS. Totalmente aberto a novas tecnologias se assim for necessario para a empresa!
 - :mortar_board: Técnico em Informática / Hardware - Microlins RP / Desenvolvedor de Sistemas pela Cubos Academy
 - :clapper: Gamer nas horas vagas
 
